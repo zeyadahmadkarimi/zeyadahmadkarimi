@@ -6,16 +6,11 @@ I mainly work with Angular, TypeScript, JavaScript and .NET, and I enjoy buildin
 
 ## Tech Stack
 
-- Angular
-- TypeScript
-- JavaScript
-- HTML5 & CSS3
-- .NET
-- C & C++
-- Python
-- Git & GitHub
-- Swagger
-- VS Code
+- Angular                                 - TypeScript
+- JavaScript                              - HTML5 & CSS3
+- .NET                                    - C & C++
+- Python                                  - Git & GitHub
+- Swagger                                 - VS Code
 - Vercel
 
 ## Projects
